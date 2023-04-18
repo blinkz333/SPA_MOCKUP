@@ -1,0 +1,308 @@
+.desktopChild,
+.rectangle7Copy {
+  position: absolute;
+  height: 13.71%;
+  width: 100%;
+  top: 18.48%;
+  right: 0;
+  bottom: 67.81%;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+}
+.rectangle7Copy {
+  height: 16.18%;
+  top: 31.92%;
+  bottom: 51.9%;
+  background-color: var(--color-slateblue-200);
+}
+.athlets {
+  position: absolute;
+  top: calc(50% - 909.5px);
+  left: 52.5%;
+  font-size: var(--font-size-71xl);
+  color: var(--color-gainsboro);
+}
+.connection {
+  position: absolute;
+  top: calc(50% - 745.5px);
+  left: 54.17%;
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.connectWithCoaches,
+.resourcesAndTools,
+.workWithOther {
+  position: absolute;
+  left: 52.5%;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+}
+.connectWithCoaches {
+  top: calc(50% - 672.5px);
+}
+.resourcesAndTools,
+.workWithOther {
+  width: 37.34%;
+  top: 24.69%;
+  letter-spacing: 0.93px;
+  display: inline-block;
+}
+.resourcesAndTools {
+  top: 39.85%;
+  color: var(--color-white);
+}
+.desktopItem {
+  position: absolute;
+  height: 0.27%;
+  width: 0.99%;
+  top: 11.68%;
+  right: 46.46%;
+  bottom: 88.06%;
+  left: 52.55%;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+}
+.collaboration,
+.growth {
+  position: absolute;
+  left: 54.17%;
+  color: var(--color-silver);
+}
+.collaboration {
+  top: calc(50% - 535.5px);
+  letter-spacing: 1.5px;
+}
+.growth {
+  top: calc(50% - 252.5px);
+}
+.growth,
+.span {
+  letter-spacing: 1.5px;
+}
+.div {
+  position: absolute;
+  top: 10.34%;
+  left: 52.5%;
+  font-size: var(--font-size-lg);
+}
+.desktopInner {
+  position: absolute;
+  height: 0.27%;
+  width: 1.15%;
+  top: 22.92%;
+  right: 46.3%;
+  bottom: 76.81%;
+  left: 52.55%;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+}
+.div1 {
+  position: absolute;
+  top: 21.59%;
+  left: 52.5%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 1.5px;
+}
+.div2,
+.rectangleDiv {
+  position: absolute;
+  left: 52.55%;
+}
+.rectangleDiv {
+  height: 0.27%;
+  width: 1.15%;
+  top: 38.14%;
+  right: 46.3%;
+  bottom: 61.6%;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-white);
+}
+.div2 {
+  top: 36.8%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 1.5px;
+}
+.footballer1Icon {
+  position: absolute;
+  top: 35px;
+  left: 175px;
+  width: 678px;
+  height: 950px;
+  object-fit: cover;
+}
+.rectangle7Copy2,
+.rectangle7Copy3 {
+  position: absolute;
+  height: 24.55%;
+  width: 100%;
+  top: 48.6%;
+  right: 0;
+  bottom: 26.85%;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+}
+.rectangle7Copy3 {
+  height: 26.85%;
+  top: 73.15%;
+  bottom: 0;
+  background-color: var(--color-gray);
+}
+.players {
+  position: absolute;
+  top: calc(50% - 375px);
+  left: 16.72%;
+  font-size: var(--font-size-71xl);
+  color: var(--color-gainsboro);
+}
+.connection1 {
+  position: absolute;
+  top: calc(50% - 202px);
+  left: 18.44%;
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.connectWithTalente {
+  position: absolute;
+  width: 29.74%;
+  top: 36.07%;
+  left: 16.77%;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+  display: inline-block;
+}
+.workWithRecruiter {
+  letter-spacing: 0.65px;
+}
+.saveYourTimeContainer,
+.workWithRecruiterContainer {
+  position: absolute;
+  width: 37.34%;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.workWithRecruiterContainer {
+  top: 60.12%;
+  left: 16.77%;
+  line-height: 28px;
+}
+.saveYourTimeContainer {
+  top: 88.18%;
+  left: 16.82%;
+  color: var(--color-white);
+}
+.rectangle4Copy {
+  position: absolute;
+  height: 0.5%;
+  width: 0.99%;
+  top: 32.77%;
+  right: 82.19%;
+  bottom: 66.73%;
+  left: 16.82%;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+}
+.collaborationCopy {
+  position: absolute;
+  top: calc(50% + 38px);
+  left: 18.44%;
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.copy,
+.growth1 {
+  position: absolute;
+}
+.growth1 {
+  top: calc(50% + 318px);
+  left: 18.49%;
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.copy {
+  top: calc(50% - 197px);
+  left: 16.77%;
+  font-size: var(--font-size-lg);
+}
+.rectangle4Copy2 {
+  position: absolute;
+  height: 0.5%;
+  width: 1.15%;
+  top: 56.81%;
+  right: 82.03%;
+  bottom: 42.69%;
+  left: 16.82%;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+}
+.copy1 {
+  position: absolute;
+  top: calc(50% + 43px);
+  left: 16.77%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 1.5px;
+}
+.rectangle4Copy3 {
+  position: absolute;
+  height: 0.5%;
+  width: 1.15%;
+  top: 84.97%;
+  right: 81.98%;
+  bottom: 14.53%;
+  left: 16.88%;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-white);
+}
+.copy2 {
+  position: absolute;
+  top: calc(50% + 324px);
+  left: 16.82%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 1.5px;
+  color: #8f6be8;
+}
+.playerChild {
+  position: absolute;
+  height: 81.66%;
+  width: 51.61%;
+  top: 0;
+  right: 6.51%;
+  bottom: 18.34%;
+  left: 41.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.player,
+.playerInner,
+.playerItem {
+  position: absolute;
+  top: 36px;
+  left: 1639px;
+  width: 281px;
+  height: 88px;
+  overflow: hidden;
+}
+.player,
+.playerInner {
+  top: 195px;
+  left: 1797px;
+  width: 123px;
+  height: 42px;
+}
+.player {
+  top: 898px;
+  left: 0;
+  width: 1920px;
+  height: 998px;
+}
+.desktop {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1867px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,269 @@
+.playersChild,
+.rectangle7Copy {
+  position: absolute;
+  top: 315px;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+  width: 768px;
+  height: 235px;
+}
+.rectangle7Copy {
+  top: 550px;
+  background-color: var(--color-gray);
+  height: 207px;
+}
+.connection,
+.players1 {
+  position: absolute;
+  top: 19px;
+  left: 31px;
+  font-size: var(--font-size-71xl);
+  color: var(--color-gainsboro);
+}
+.connection {
+  top: 158px;
+  left: 65px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.connectWithTalente {
+  position: absolute;
+  top: 221px;
+  left: 33px;
+  line-height: 28px;
+  display: inline-block;
+  width: 432px;
+}
+.workWithRecruiter {
+  letter-spacing: 0.93px;
+}
+.saveYourTimeContainer,
+.workWithRecruiterContainer {
+  position: absolute;
+  top: 429px;
+  left: 33px;
+  line-height: 28px;
+  display: inline-block;
+  width: 432px;
+}
+.saveYourTimeContainer {
+  top: 673px;
+  color: var(--color-white);
+  width: 455px;
+}
+.playersItem {
+  position: absolute;
+  top: 188px;
+  left: 34px;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+  width: 19px;
+  height: 5px;
+}
+.collaboration,
+.growth {
+  position: absolute;
+  left: 65px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-silver);
+}
+.collaboration {
+  top: 366px;
+  letter-spacing: 1.5px;
+}
+.growth {
+  top: 610px;
+}
+.growth,
+.span {
+  letter-spacing: 1.5px;
+}
+.div1,
+.playersInner {
+  position: absolute;
+  top: 163px;
+  left: 33px;
+}
+.playersInner {
+  top: 396px;
+  left: 34px;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+  width: 22px;
+  height: 5px;
+}
+.div2 {
+  position: absolute;
+  top: 371px;
+  left: 33px;
+  letter-spacing: 1.5px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 641px;
+  left: 34px;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-white);
+  width: 22px;
+  height: 5px;
+}
+.div3 {
+  position: absolute;
+  top: 616px;
+  left: 33px;
+  letter-spacing: 1.5px;
+  color: #8765dd;
+}
+.path45Copy {
+  position: absolute;
+  top: 981.67px;
+  left: 724px;
+  width: 85.78px;
+  height: 100.49px;
+  display: none;
+}
+.groupIcon,
+.players {
+  position: absolute;
+  top: 0;
+  left: 331px;
+  width: 691px;
+  height: 568px;
+}
+.players {
+  top: 852px;
+  left: 0;
+  width: 1022px;
+  height: 757px;
+}
+.athletsChild,
+.rectangle7Copy1 {
+  position: absolute;
+  top: 296px;
+  left: 161px;
+  background-color: var(--color-ghostwhite);
+  width: 768px;
+  height: 235px;
+}
+.rectangle7Copy1 {
+  top: 531px;
+  background-color: var(--color-slateblue-200);
+  height: 207px;
+}
+.athlets1,
+.connection1 {
+  position: absolute;
+  top: 0;
+  left: 452px;
+  font-size: var(--font-size-71xl);
+  color: var(--color-gainsboro);
+}
+.connection1 {
+  top: 139px;
+  left: 484px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.connectWithCoaches,
+.resourcesAndTools,
+.workWithOther {
+  position: absolute;
+  top: 202px;
+  left: 452px;
+  line-height: 28px;
+  display: inline-block;
+  width: 457px;
+}
+.resourcesAndTools,
+.workWithOther {
+  top: 389px;
+  letter-spacing: 0.84px;
+  width: 446.2px;
+}
+.resourcesAndTools {
+  top: 624px;
+  color: var(--color-white);
+}
+.athletsItem {
+  position: absolute;
+  top: 169px;
+  left: 453px;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+  width: 19px;
+  height: 5px;
+}
+.collaboration1,
+.growth1 {
+  position: absolute;
+  top: 326px;
+  left: 484px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 1.5px;
+  color: var(--color-silver);
+}
+.growth1 {
+  top: 561px;
+}
+.athletsInner,
+.div4 {
+  position: absolute;
+  top: 144px;
+  left: 452px;
+}
+.athletsInner {
+  top: 356px;
+  left: 453px;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-slateblue-100);
+  width: 22px;
+  height: 5px;
+}
+.div5 {
+  position: absolute;
+  top: 331px;
+  left: 452px;
+  letter-spacing: 1.5px;
+}
+.athletsChild1 {
+  position: absolute;
+  top: 592px;
+  left: 453px;
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-white);
+  width: 22px;
+  height: 5px;
+}
+.div6 {
+  position: absolute;
+  top: 567px;
+  left: 452px;
+  letter-spacing: 1.5px;
+}
+.athlets,
+.athletsChild2 {
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  width: 498px;
+  height: 719px;
+}
+.athlets {
+  top: 81px;
+  left: -161px;
+  width: 929px;
+  height: 739px;
+}
+.div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1609px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
