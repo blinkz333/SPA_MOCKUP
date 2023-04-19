@@ -7,9 +7,9 @@ const Desktop = () => {
   const [screenSize, setScreenSize] = useState(1);
 
   const checkSizeToRender = () => {
-    if (window.innerWidth <= 340 ) {
+    if (window.innerWidth <= 430 ) {
       setScreenSize(3);
-    } else if (window.innerWidth <= 768) {
+    } else if (window.innerWidth <= 820) {
       setScreenSize(2);
     } else {
       setScreenSize(1);
