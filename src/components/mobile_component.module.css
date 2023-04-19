@@ -28,19 +28,27 @@
   top: 7px; */
   left: 300px;
   font-size: 14px;
+  font-weight: bold;
   letter-spacing: 1.5px;
+}
+.spanHead {
+  top: 10px;
+  left: 600px;
+  font-size: 28px;
+  font-family: Roboto;
+  color: #c2c2c2;
 }
 .playersChild,
 .wordPlayersBox {
   position: absolute;
-  top: 942px;
-  left: 60px;
+  top: 970px;
+  left: 20px;
   width: 320px;
   height: 191px;
 }
 .playersChild {
   top: 30px;
-  left: -5px;
+  left: -50px;
   width: 317px;
   height: 364px;
 }
@@ -48,7 +56,7 @@
 .players1 {
   position: absolute;
   top: 20px;
-  left: 36px;
+  left: -30px;
 }
 .players {
   top: 576px;
@@ -62,14 +70,12 @@
   letter-spacing: 0.74px;
 }
 .workWithOtherContainer {
-  /* position: absolute; */
   top: 50px;
   left: 19px;
   display: inline-block;
   width: 302px;
 }
 .wordAthletsBoxChild {
-  /* position: absolute; */
   top: 23px;
   left: 20px;
   border-radius: 2.5px;
@@ -78,32 +84,32 @@
   height: 3px;
 }
 .div2 {
-  /* position: absolute; */
-  /* top: 7px; */
-  left: 300px;
+   left: 300px;
+  height: 40px;
   font-size: 14px;
+  font-weight: bold;
   letter-spacing: 1.5px;
 }
 .collaboratio,
 
 .collaboration {
-  /* position: absolute; */
-  top: 7px;
+ top: 100px;
   left: 600px;
   font-size: 28px;
+  font-weight: lighter;
   color: #c2c2c2;
 }
 .athletsChild,
 .wordAthletsBox {
   position: absolute;
   top: 394px;
-  left: 60px;
+  left: 20px;
   width: 317px;
-  height: 800px;
+  height: 200px;
 }
 .athletsChild {
   top: 70px;
-  left: 51px;
+  left: -20px;
   width: 219px;
   height: 281px;
 }
@@ -111,7 +117,7 @@
 .athlets1 {
   position: absolute;
   top: 0;
-  left: 19px;
+  left: -50px;
 }
 .athlets {
   left: 80px;
