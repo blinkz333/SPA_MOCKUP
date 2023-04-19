@@ -1,6 +1,6 @@
 {
-    "homepage": "https://blinkz333.github.io/frontend_responsive-mockup",
-    "name": "sport_singlepage",
+    "homepage": "https://blinkz333.github.io/frontend_responsive_mockup",
+    "name": "frontend_responsive_mockup",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
