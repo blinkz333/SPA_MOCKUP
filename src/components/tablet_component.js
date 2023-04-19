@@ -1,4 +1,8 @@
 import styles from "./tablet_component.module.css";
+import path45 from './img/group-7.svg'
+import group5 from './img/group-5.svg'
+import group4 from './img/group-4.svg'
+
 
 const ComponentTablet = () => {
   return (
@@ -35,8 +39,8 @@ const ComponentTablet = () => {
         <div className={styles.div2}>02</div>
         <div className={styles.rectangleDiv} />
         <div className={styles.div3}>03</div>
-        <img className={styles.path45Copy} alt="" src="/path-45-copy.svg" />
-        <img className={styles.groupIcon} alt="" src="/group-5.svg" />
+        <img className={styles.path45Copy} alt="" src={path45} />
+        <img className={styles.groupIcon} alt="" src={group5} />
       </div>
       <div className={styles.athlets}>
         <div className={styles.athletsChild} />
@@ -65,7 +69,7 @@ const ComponentTablet = () => {
         <div className={styles.div5}>02</div>
         <div className={styles.athletsChild1} />
         <div className={styles.div6}>03</div>
-        <img className={styles.athletsChild2} alt="" src="/group-4.svg" />
+        <img className={styles.athletsChild2} alt="" src={group4} />
       </div>
     </div>
   );

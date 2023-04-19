@@ -1,6 +1,7 @@
 import styles from "./mobile_component.module.css";
-import Swiper from 'react-id-swiper';
 import Slider from "react-slick";
+import group7 from './img/group-7.svg'
+import group6 from './img/group-6.svg'
 
 const ComponentMobile = () => {
 
@@ -24,7 +25,7 @@ const ComponentMobile = () => {
     <div className={styles.div}>
 
     <div className={styles.players}>
-      <img className={styles.playersChild} alt="" src="/group-7.svg" />
+      <img className={styles.playersChild} alt="" src={group7} />
       <div className={styles.players1}>PLAYERS</div>
     </div>
 
@@ -67,7 +68,7 @@ const ComponentMobile = () => {
     
 
     <div className={styles.athlets}>
-      <img className={styles.athletsChild} alt="" src="/group-6.svg" />
+      <img className={styles.athletsChild} alt="" src={group6} />
       <div className={styles.athlets1}>ATHLETS</div>
     </div>
 

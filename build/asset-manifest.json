@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend_responsive-mockup/static/css/main.1193e766.css",
+    "main.js": "/frontend_responsive-mockup/static/js/main.e6ad3a14.js",
+    "index.html": "/frontend_responsive-mockup/index.html",
+    "main.1193e766.css.map": "/frontend_responsive-mockup/static/css/main.1193e766.css.map",
+    "main.e6ad3a14.js.map": "/frontend_responsive-mockup/static/js/main.e6ad3a14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1193e766.css",
+    "static/js/main.e6ad3a14.js"
+  ]
+}

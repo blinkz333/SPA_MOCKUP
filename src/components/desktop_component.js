@@ -1,4 +1,6 @@
 import styles from "./desktop.module.css";
+import football from './img/footballer-1@2x.png'
+import group3 from './img/group-3.svg'
 
 const Desktop = () => {
 
@@ -33,7 +35,7 @@ const Desktop = () => {
       <img
         className={styles.footballer1Icon}
         alt=""
-        src="/footballer-1@2x.png"
+        src={football}
       />
       <div className={styles.player}>
         <div className={styles.rectangle7Copy2} />
@@ -67,7 +69,7 @@ const Desktop = () => {
         <div className={styles.copy1}>02</div>
         <div className={styles.rectangle4Copy3} />
         <div className={styles.copy2}>03</div>
-        <img className={styles.playerChild} alt="" src="/group-3.svg" />
+        <img className={styles.playerChild} alt="" src={group3} />
         <div className={styles.playerItem} />
         <div className={styles.playerInner} />
       </div>
