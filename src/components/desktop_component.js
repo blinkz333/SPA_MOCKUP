@@ -37,6 +37,7 @@ const Desktop = () => {
         alt=""
         src={football}
       />
+      
       <div className={styles.player}>
         <div className={styles.rectangle7Copy2} />
         <div className={styles.rectangle7Copy3} />

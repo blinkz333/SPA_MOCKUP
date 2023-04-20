@@ -17,15 +17,15 @@
   position: absolute;
   top: 19px;
   left: 31px;
-  font-size: var(--font-size-71xl);
-  color: var(--color-gainsboro);
+  font-size: 90px;
+  color: #E7E7E7;
 }
 .connection {
   top: 158px;
   left: 65px;
-  font-size: var(--font-size-17xl);
+  font-size: 36px;
   letter-spacing: 1.5px;
-  color: var(--color-silver);
+  color: #C2C2C2;
 }
 .connectWithTalente {
   position: absolute;
@@ -65,8 +65,8 @@
 .growth {
   position: absolute;
   left: 65px;
-  font-size: var(--font-size-17xl);
-  color: var(--color-silver);
+  font-size: 36px;
+  color: #C2C2C2;
 }
 .collaboration {
   top: 366px;
@@ -200,9 +200,9 @@
   position: absolute;
   top: 326px;
   left: 484px;
-  font-size: var(--font-size-17xl);
+  font-size: 36px;
   letter-spacing: 1.5px;
-  color: var(--color-silver);
+  color: #C2C2C2;
 }
 .growth1 {
   top: 561px;

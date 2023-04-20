@@ -7,6 +7,37 @@ import group4 from './img/group-4.svg'
 const ComponentTablet = () => {
   return (
     <div className={styles.div}>
+
+      <div className={styles.athlets}>
+        <div className={styles.athletsChild} />
+        <div className={styles.rectangle7Copy1} />
+        <div className={styles.athlets1}>ATHLETS</div>
+        <div className={styles.connection1}>CONNECTION</div>
+        <div className={styles.connectWithCoaches}>
+          Connect with coaches directly, you can ping coaches to view profile.
+        </div>
+        <div className={styles.workWithOther}>
+          Work with other student athletes to  increase visability. When you
+          share and like other players videos it will increase your visability
+          as a player. This is the team work aspect to Surface 1.
+        </div>
+        <div className={styles.resourcesAndTools}>
+          Resources and tools for you to get better as a student Athelte. Access
+          to training classes, tutor sessions, etc 
+        </div>
+        <div className={styles.athletsItem} />
+        <div className={styles.collaboration1}>COLLABORATION</div>
+        <div className={styles.growth1}>GROWTH</div>
+        <div className={styles.div4}>
+          <span className={styles.span}>0</span>1
+        </div>
+        <div className={styles.athletsInner} />
+        <div className={styles.div5}>02</div>
+        <div className={styles.athletsChild1} />
+        <div className={styles.div6}>03</div>
+        <img className={styles.athletsChild2} alt="" src={group4} />
+      </div>
+
       <div className={styles.players}>
         <div className={styles.playersChild} />
         <div className={styles.rectangle7Copy} />
@@ -42,35 +73,9 @@ const ComponentTablet = () => {
         <img className={styles.path45Copy} alt="" src={path45} />
         <img className={styles.groupIcon} alt="" src={group5} />
       </div>
-      <div className={styles.athlets}>
-        <div className={styles.athletsChild} />
-        <div className={styles.rectangle7Copy1} />
-        <div className={styles.athlets1}>ATHLETS</div>
-        <div className={styles.connection1}>CONNECTION</div>
-        <div className={styles.connectWithCoaches}>
-          Connect with coaches directly, you can ping coaches to view profile.
-        </div>
-        <div className={styles.workWithOther}>
-          Work with other student athletes to  increase visability. When you
-          share and like other players videos it will increase your visability
-          as a player. This is the team work aspect to Surface 1.
-        </div>
-        <div className={styles.resourcesAndTools}>
-          Resources and tools for you to get better as a student Athelte. Access
-          to training classes, tutor sessions, etc 
-        </div>
-        <div className={styles.athletsItem} />
-        <div className={styles.collaboration1}>COLLABORATION</div>
-        <div className={styles.growth1}>GROWTH</div>
-        <div className={styles.div4}>
-          <span className={styles.span}>0</span>1
-        </div>
-        <div className={styles.athletsInner} />
-        <div className={styles.div5}>02</div>
-        <div className={styles.athletsChild1} />
-        <div className={styles.div6}>03</div>
-        <img className={styles.athletsChild2} alt="" src={group4} />
-      </div>
+      
+      
+    
     </div>
   );
 };
