@@ -3,12 +3,12 @@ import {
   Routes,
   Route,
  } from "react-router-dom";
-import Desktop from "./pages/Desktop";
+import Main from "./pages/main";
 
 function App() {
   return (
     <Routes>
-      <Route path="/frontend_responsive_mockup" element={<Desktop />} />
+      <Route path="/frontend_responsive_mockup" element={<Main />} />
     </Routes>
   );
 }
