@@ -811,36 +811,81 @@
         top: 681px;
     }
 
-    .slider_text_athlets{
-        position: absolute;
-        width: 320px;
-        height: 284px;
-        left: 0px;
-        top: 296px;
-        background: white
-    }
-   
     .app_slider_div {
         width: 320px;
         height: 284px;
+        margin-top: 296px;
+        margin-bottom: -31px;
+        background: #F5F4F9;
+    }
+      
+    .app_slider_topic {
+        position: absolute;
+        font-weight: 400;
+        font-size: 14px;
+        margin-top: 79px;
         margin-left: 19px;
-        background: #272727;
-      }
-      
-      .app_slider_topic {
-                
-            font-family: 'Roboto';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 14px;
-            line-height: 16px;
-            letter-spacing: 1.5px;
-        
-        color: white;
-      }
-      
-      .app_slider_div img {
-        width: 100%;
-      }
+        line-height: 16px;
+        letter-spacing: 1.5px;
+        color: #000000;
+    }
 
+    .underline_athlets_mobile{
+        position: absolute;
+        width: 17px;
+        height: 4px;
+        margin-top: 97px;
+        margin-left: 20px;
+        background: #603EBE;
+        border-radius: 2.5px;
+    }
+
+    .app_slider_header{
+        position: absolute;
+        width: 239px;
+        height: 33px;
+        margin-top: 72px;
+        margin-left: 46px;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 33px;
+        letter-spacing: 1.5px;
+        color: #C2C2C2;
+    }
+      
+    .app_slider_content{
+        position: absolute;
+        width: 302px;
+        height: 90px;
+        margin-top:125px;
+        margin-left: 19px;
+        margin-bottom: 69px;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 18px;
+        letter-spacing: 0.74px;
+        color: #000000;
+    }
+
+    .players{
+        position: absolute;
+        width: 209px;
+        height: 59px;
+        left: 17px;
+        top: 599px;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 59px;
+        color: #E7E7E7;
+    }
+
+    .app_slider_div_players{
+        width: 320px;
+        height: 238px;
+        margin-top: 350px;
+        margin-bottom: -31px;
+        background: #F5F4F9;
+    }
+      
+     
 }

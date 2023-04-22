@@ -19,14 +19,6 @@ const Desktop = () => {
     slidesToScroll: 1
   };
 
-  const settings2 = {
-    dots: true,
-    infinite: true,
-    speed: 500,
-    slidesToShow: 1,
-    slidesToScroll: 1
-  };
-
   return (
     <div className={styles.global}>
       
@@ -34,25 +26,38 @@ const Desktop = () => {
         <div className={styles.athlets}>ATHLETS</div>
           {
             window.screen.width <= 320 ?
-            <div >
-            <Slider {...settings} className={styles.slider_text_athlets}>
-              <div>
-            <div className={styles.app_slider_div}>
-          <div className={styles.app_slider_topic}>01</div>
-          <div className={styles.app_slider_content}>
-            test1
-          </div>
-          </div>
-        </div>
-        <div className={styles.app_slider_div}>
-          <div className={styles.app_slider_topic}>02</div>
-          <div className={styles.app_slider_content}>
-              test 2
-          </div>
-        </div>
-        
+            <Slider {...settings}>
+              <div className="topic1">
+                <div className={styles.app_slider_div}>
+                <div className={styles.app_slider_topic}>01</div>
+                <div className={styles.app_slider_header}>CONNECTION</div>
+                <div className={styles.underline_athlets_mobile} />
+                <div className={styles.app_slider_content}>
+                  Connect with coaches directly, you can ping coaches to view profile.
+                </div>
+                </div>
+              </div>
+              <div className="topic2">
+                <div className={styles.app_slider_div}>
+                <div className={styles.app_slider_topic}>02</div>
+                <div className={styles.app_slider_header}>COLLABORATION</div>
+                <div className={styles.underline_athlets_mobile} />
+                <div className={styles.app_slider_content}>
+                  Work with other student athletes to increase visability. When you share and like other players videos it will increase your visability as a player. This is the team work aspect to Surface 1.
+                </div>
+                </div>
+              </div>
+              <div className="topic3">
+                <div className={styles.app_slider_div}>
+                <div className={styles.app_slider_topic}>03</div>
+                <div className={styles.app_slider_header}>GROWTH</div>
+                <div className={styles.underline_athlets_mobile} />
+                <div className={styles.app_slider_content}>
+                Resources and tools for you to get better as a student Athelte. Access to training classes, tutor sessions, etc
+                </div>
+                </div>
+              </div>
             </Slider>
-            </div>
             :
             <>
             <div className="topic1_athlets">
@@ -77,7 +82,7 @@ const Desktop = () => {
             </>
           }
           
-          
+          {/* img handle */}
           {window.screen.width <= 320 ? 
             <div className="img_mobile"> 
             <img
@@ -110,7 +115,40 @@ const Desktop = () => {
         <div className={styles.players}>PLAYERS</div>
         
         {window.screen.width <= 320 ? 
-        <></> 
+        <Slider {...settings}>
+        <div className="topic1">
+          <div className={styles.app_slider_div_players}>
+          <div className={styles.app_slider_topic}>01</div>
+          <div className={styles.app_slider_header}>CONNECTION</div>
+          <div className={styles.underline_athlets_mobile} />
+          <div className={styles.app_slider_content}>
+          Connect with talented athlete directly, you can watch their skills through video showreels directly from Surface 1.
+          </div>
+          </div>
+        </div>
+        <div className="topic2">
+          <div className={styles.app_slider_div_players}>
+          <div className={styles.app_slider_topic}>02</div>
+          <div className={styles.app_slider_header}>COLLABORATION</div>
+          <div className={styles.underline_athlets_mobile} />
+          <div className={styles.app_slider_content}>
+            Work with recruiter to increase your chances of findingtalented athlete.
+          </div>
+          </div>
+        </div>
+        <div className="topic3">
+          <div className={styles.app_slider_div_players}>
+          <div className={styles.app_slider_topic}>03</div>
+          <div className={styles.app_slider_header}>GROWTH</div>
+          <div className={styles.underline_athlets_mobile} />
+          <div className={styles.app_slider_content}>
+            Save your time, recruit proper athlets for your team.
+          </div>
+          </div>
+        </div>
+        
+       
+      </Slider>
         : 
         <>
         <div className="topic1_players">
